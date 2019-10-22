@@ -18,3 +18,10 @@ html, body {
 #app {
 	height: 100%;
 }
+
+.helloWorld {
+	text-align: center;
+	font-weight: bold;
+	font-size: 30px;
+	padding: 20px;
+}
