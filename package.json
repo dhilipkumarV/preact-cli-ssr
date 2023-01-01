@@ -9,7 +9,7 @@
     "start": "node server"
   },
   "devDependencies": {
-    "preact-cli": "^2.0.0"
+    "preact-cli": "^3.4.3"
   },
   "dependencies": {
     "compression": "^1.7.1",
